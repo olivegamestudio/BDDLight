@@ -5,7 +5,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Simon Jefferies</Company>
     <Authors>Simon Jefferies</Authors>
-    <Description>A lightweight BDD framework.</Description>
+    <Description>Given Lightweight BDD Framework Then Package Installed.</Description>
     <Copyright>(C) 2021 Simon Jefferies</Copyright>
     <RepositoryUrl>https://github.com/olivegamestudio/BDDLight</RepositoryUrl>
     <Version>1.0.1</Version>
