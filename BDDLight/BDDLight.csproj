@@ -7,6 +7,8 @@
     <Authors>Simon Jefferies</Authors>
     <Description>A lightweight BDD framework.</Description>
     <Copyright>(C) 2021 Simon Jefferies</Copyright>
+    <RepositoryUrl>https://github.com/olivegamestudio/BDDLight</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>

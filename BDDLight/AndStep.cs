@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LightBDD
+namespace BDDLight
 {
     public class AndStep
     {
