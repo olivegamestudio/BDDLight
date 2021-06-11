@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LightBDD
+namespace BDDLight
 {
     public static class Runner
     {
